@@ -1,4 +1,4 @@
-import datetime
+istemaimport datetime
 menu = """
 ---------- MENU ----------
 [ 1 ] - DEPOSITAR
